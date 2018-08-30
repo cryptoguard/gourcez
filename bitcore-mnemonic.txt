@@ -1,0 +1,175 @@
+1419258432|Yemel Jardi|A|/.coveralls.yml
+1419258432|Yemel Jardi|A|/.gitignore
+1419258432|Yemel Jardi|A|/.travis.yml
+1419258432|Yemel Jardi|A|/LICENSE
+1419258432|Yemel Jardi|A|/README.md
+1419258432|Yemel Jardi|A|/index.js
+1419258432|Yemel Jardi|A|/lib/mnemonic.js
+1419258432|Yemel Jardi|A|/lib/sjcl.js
+1419258432|Yemel Jardi|A|/lib/words/chinese.js
+1419258432|Yemel Jardi|A|/lib/words/english.js
+1419258432|Yemel Jardi|A|/lib/words/index.js
+1419258432|Yemel Jardi|A|/lib/words/japanese.js
+1419258432|Yemel Jardi|A|/lib/words/spanish.js
+1419258432|Yemel Jardi|A|/package.json
+1419258432|Yemel Jardi|A|/test/mnemonic.unit.js
+1420840223|Yemel Jardi|M|/lib/mnemonic.js
+1420840291|Yemel Jardi|A|/docs/mnemonic.md
+1420840415|Yemel Jardi|M|/package.json
+1420840909|Yemel Jardi|M|/README.md
+1421065866|Yemel Jardi|M|/docs/mnemonic.md
+1421065866|Yemel Jardi|M|/package.json
+1421071274|Yemel Jardi|M|/README.md
+1421074463|Yemel Jardi|M|/lib/mnemonic.js
+1421076856|Yemel Jardi|A|/lib/errors/build.js
+1421076856|Yemel Jardi|A|/lib/errors/spec.js
+1421076856|Yemel Jardi|M|/lib/mnemonic.js
+1421076866|Yemel Jardi|M|/.gitignore
+1421077814|Yemel Jardi|A|/gulpfile.js
+1421077814|Yemel Jardi|M|/package.json
+1421079144|Yemel Jardi|M|/package.json
+1421079387|Yemel Jardi|M|/docs/mnemonic.md
+1421084994|Yemel Jardi|A|/karma.conf.js
+1421089309|Yemel Jardi|M|/.coveralls.yml
+1421092887|Yemel Jardi|M|/package.json
+1421094122|Yemel Jardi|M|/.travis.yml
+1421159617|Yemel Jardi|M|/lib/mnemonic.js
+1421159617|Yemel Jardi|A|/lib/pbkdf2.js
+1421159617|Yemel Jardi|D|/lib/sjcl.js
+1421159617|Yemel Jardi|A|/test/pbkdf2.test.js
+1421163369|Yemel Jardi|M|/lib/mnemonic.js
+1421163369|Yemel Jardi|M|/test/mnemonic.unit.js
+1421177975|Yemel Jardi|M|/test/mnemonic.unit.js
+1421177975|Yemel Jardi|A|/test/mocha.opts
+1421232306|Ruben de Vries|M|/test/mnemonic.unit.js
+1421232306|Ruben de Vries|M|/lib/mnemonic.js
+1421232359|Ruben de Vries|M|/lib/mnemonic.js
+1421265489|Yemel Jardi|M|/test/pbkdf2.test.js
+1421414355|Yemel Jardi|A|/lib/errors.js
+1421414355|Yemel Jardi|D|/lib/errors/build.js
+1421414355|Yemel Jardi|D|/lib/errors/spec.js
+1421414355|Yemel Jardi|M|/lib/mnemonic.js
+1421414355|Yemel Jardi|M|/package.json
+1421414355|Yemel Jardi|M|/test/mnemonic.unit.js
+1421414603|Yemel Jardi|A|/bower.json
+1421414682|Yemel Jardi|M|/bower.json
+1421414682|Yemel Jardi|M|/package.json
+1421422009|Esteban Ordano|M|/gulpfile.js
+1421422009|Esteban Ordano|M|/package.json
+1421425029|Yemel Jardi|M|/bower.json
+1421425029|Yemel Jardi|M|/package.json
+1421435228|Yemel Jardi|M|/package.json
+1421765511|Yemel Jardi|M|/bower.json
+1421765511|Yemel Jardi|A|/docs/index.md
+1421765511|Yemel Jardi|D|/docs/mnemonic.md
+1421765511|Yemel Jardi|D|/karma.conf.js
+1421765766|Yemel Jardi|M|/bower.json
+1421765856|Yemel Jardi|M|/package.json
+1421767156|Yemel Jardi|M|/package.json
+1421769433|Yemel Jardi|M|/bower.json
+1421769433|Yemel Jardi|M|/package.json
+1421853853|Esteban Ordano|M|/package.json
+1421873921|Esteban Ordano|M|/bower.json
+1421873921|Esteban Ordano|M|/package.json
+1421875776|Esteban Ordano|M|/bower.json
+1421875776|Esteban Ordano|M|/package.json
+1421929134|Esteban Ordano|M|/README.md
+1421948988|Manuel Araoz|M|/package.json
+1421949476|Manuel Araoz|M|/package.json
+1423227358|Esteban Ordano|A|/CONTRIBUTING.md
+1423690730|Manuel Araoz|M|/lib/mnemonic.js
+1423690730|Manuel Araoz|M|/package.json
+1423697202|Manuel Araoz|M|/package.json
+1423697389|Manuel Araoz|M|/bower.json
+1423697389|Manuel Araoz|M|/package.json
+1424968808|Manuel Araoz|M|/lib/mnemonic.js
+1425655959|Mariano|M|/README.md
+1426684378|Robert Miksch|M|/lib/mnemonic.js
+1426684378|Robert Miksch|M|/test/mnemonic.unit.js
+1426970193|Robert Miksch|M|/lib/mnemonic.js
+1426970193|Robert Miksch|M|/test/mnemonic.unit.js
+1427312346|Manuel Araoz|A|/test/data/fixtures.json
+1427312346|Manuel Araoz|M|/test/mnemonic.unit.js
+1427363935|Robert Miksch|M|/test/mnemonic.unit.js
+1427509248|Braydon Fuller|M|/package.json
+1427744826|Manuel Araoz|M|/lib/mnemonic.js
+1427826346|Manuel Araoz|M|/bower.json
+1427826346|Manuel Araoz|M|/package.json
+1427923563|Braydon Fuller|A|/.jshintrc
+1427923563|Braydon Fuller|M|/lib/mnemonic.js
+1427923563|Braydon Fuller|M|/lib/pbkdf2.js
+1427923563|Braydon Fuller|M|/package.json
+1430326158|Manuel Araoz|M|/package.json
+1430329490|Manuel Araoz|M|/bower.json
+1430329490|Manuel Araoz|M|/package.json
+1436697600|dabura667|M|/lib/words/japanese.js
+1436699258|dabura667|M|/lib/mnemonic.js
+1436699378|dabura667|M|/package.json
+1436699581|dabura667|M|/lib/words/spanish.js
+1436701647|dabura667|M|/test/mnemonic.unit.js
+1439229535|Gregg Zigler|M|/docs/index.md
+1439229535|Gregg Zigler|A|/lib/words/french.js
+1439229535|Gregg Zigler|M|/lib/words/index.js
+1439229535|Gregg Zigler|M|/test/mnemonic.unit.js
+1439230267|Gregg Zigler|M|/test/mnemonic.unit.js
+1439323287|Braydon Fuller|M|/bower.json
+1439323287|Braydon Fuller|M|/package.json
+1440002538|Braydon Fuller|M|/package.json
+1440002685|Braydon Fuller|M|/bower.json
+1440002685|Braydon Fuller|M|/package.json
+1440005301|Braydon Fuller|M|/package.json
+1440006758|Braydon Fuller|M|/README.md
+1440452912|Gregg Zigler|M|/lib/mnemonic.js
+1440452912|Gregg Zigler|M|/test/mnemonic.unit.js
+1440466141|Braydon Fuller|M|/package.json
+1440466774|Braydon Fuller|M|/bower.json
+1440466774|Braydon Fuller|M|/package.json
+1440466831|Braydon Fuller|M|/lib/mnemonic.js
+1440469219|Gregg Zigler|M|/lib/mnemonic.js
+1440517225|Braydon Fuller|M|/bower.json
+1440517225|Braydon Fuller|M|/package.json
+1441058304|Braydon Fuller|M|/package.json
+1441058304|Braydon Fuller|A|/test/index.html
+1441058304|Braydon Fuller|M|/test/mnemonic.unit.js
+1443439401|dabura667|M|/test/data/fixtures.json
+1443439401|dabura667|M|/test/mnemonic.unit.js
+1443449699|dabura667|M|/lib/pbkdf2.js
+1443452032|dabura667|M|/test/mnemonic.unit.js
+1444836405|Braydon Fuller|M|/bower.json
+1444836405|Braydon Fuller|M|/package.json
+1445021552|Jason Dreyzehner|M|/lib/errors.js
+1445021552|Jason Dreyzehner|M|/lib/mnemonic.js
+1445021552|Jason Dreyzehner|M|/package.json
+1445021552|Jason Dreyzehner|M|/test/mnemonic.unit.js
+1445028082|Braydon Fuller|M|/bower.json
+1445028082|Braydon Fuller|M|/package.json
+1445352316|Jason Dreyzehner|M|/docs/index.md
+1445440132|Braydon Fuller|M|/bower.json
+1445440132|Braydon Fuller|M|/package.json
+1461902984|Chris Moore|M|/docs/index.md
+1462271254|dabura667|M|/lib/words/index.js
+1462271254|dabura667|A|/lib/words/italian.js
+1462462154|Ivan Socolsky|M|/test/mnemonic.unit.js
+1462554947|Matias Alejo Garcia|A|/bitcore-mnemonic.js
+1462554947|Matias Alejo Garcia|A|/bitcore-mnemonic.js.sig
+1462554947|Matias Alejo Garcia|A|/bitcore-mnemonic.min.js
+1462554947|Matias Alejo Garcia|A|/bitcore-mnemonic.min.js.sig
+1462554947|Matias Alejo Garcia|M|/bower.json
+1462554947|Matias Alejo Garcia|M|/package.json
+1462555367|Matias Alejo Garcia|M|/bower.json
+1489442617|Matias Alejo Garcia|M|/package.json
+1489591475|Matias Alejo Garcia|M|/bower.json
+1489591475|Matias Alejo Garcia|M|/package.json
+1489592153|Matias Alejo Garcia|M|/.travis.yml
+1489760606|Matias Alejo Garcia|M|/bower.json
+1489760606|Matias Alejo Garcia|M|/package.json
+1489764208|Matias Alejo Garcia|M|/.travis.yml
+1491897035|junderw|M|/lib/mnemonic.js
+1491996505|Matias Alejo Garcia|M|/bower.json
+1491996505|Matias Alejo Garcia|M|/package.json
+1500103886|Ryno Mathee|M|/bitcore-mnemonic.js
+1500103886|Ryno Mathee|M|/lib/errors.js
+1500103886|Ryno Mathee|M|/lib/mnemonic.js
+1500103886|Ryno Mathee|M|/package.json
+1500103886|Ryno Mathee|M|/test/mnemonic.unit.js
+1500897665|Ryno Mathee|M|/package.json

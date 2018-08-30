@@ -1,0 +1,610 @@
+1369779628|Dave Collins|A|/.gitignore
+1369779628|Dave Collins|A|/README.md
+1369783286|Dave Collins|A|/LICENSE
+1369783286|Dave Collins|M|/README.md
+1369783286|Dave Collins|A|/block.go
+1369783286|Dave Collins|A|/block_test.go
+1369783286|Dave Collins|A|/cov_report.sh
+1369783286|Dave Collins|A|/doc.go
+1369783286|Dave Collins|A|/test_coverage.txt
+1369784593|Dave Collins|M|/block.go
+1369927804|Dave Collins|M|/block_test.go
+1369927804|Dave Collins|M|/test_coverage.txt
+1369928738|Dave Collins|M|/block_test.go
+1369928738|Dave Collins|M|/test_coverage.txt
+1369929969|Dave Collins|M|/block_test.go
+1369929969|Dave Collins|M|/test_coverage.txt
+1369930349|Dave Collins|M|/block_test.go
+1369930349|Dave Collins|M|/test_coverage.txt
+1369930388|Dave Collins|M|/block.go
+1369931482|Dave Collins|M|/block.go
+1369931983|Dave Collins|M|/block.go
+1369932658|Dave Collins|M|/block_test.go
+1369932658|Dave Collins|A|/internal_test.go
+1369932658|Dave Collins|M|/test_coverage.txt
+1369936371|Dave Collins|M|/README.md
+1371142906|John C. Vernaleo|A|/base58.go
+1371142906|John C. Vernaleo|A|/base58_test.go
+1371142906|John C. Vernaleo|M|/doc.go
+1371142906|John C. Vernaleo|M|/test_coverage.txt
+1371143391|John C. Vernaleo|M|/base58.go
+1371143391|John C. Vernaleo|M|/base58_test.go
+1375738135|Dave Collins|M|/block.go
+1375738135|Dave Collins|M|/block_test.go
+1375738135|Dave Collins|M|/internal_test.go
+1375810640|Dave Collins|M|/block_test.go
+1375810808|Dave Collins|M|/base58.go
+1378999234|Josh Rickmar|A|/addrconvs.go
+1378999234|Josh Rickmar|A|/addrconvs_test.go
+1378999234|Josh Rickmar|M|/test_coverage.txt
+1378999967|Josh Rickmar|M|/addrconvs.go
+1381251641|Josh Rickmar|M|/addrconvs.go
+1381251641|Josh Rickmar|M|/addrconvs_test.go
+1381252444|Josh Rickmar|M|/test_coverage.txt
+1382900151|Dave Collins|M|/doc.go
+1382900151|Dave Collins|A|/tx.go
+1382900439|Dave Collins|M|/test_coverage.txt
+1382900439|Dave Collins|A|/tx_test.go
+1382974467|Dave Collins|M|/block.go
+1382975755|Dave Collins|M|/block_test.go
+1383076901|David Hill|A|/const.go
+1383277905|David Hill|M|/addrconvs.go
+1383277905|David Hill|M|/addrconvs_test.go
+1383281138|David Hill|M|/addrconvs.go
+1383281138|David Hill|M|/addrconvs_test.go
+1383759297|David Hill|M|/addrconvs.go
+1383759297|David Hill|M|/addrconvs_test.go
+1384188588|Dave Collins|A|/appdata.go
+1384188588|Dave Collins|A|/appdata_test.go
+1384188588|Dave Collins|M|/internal_test.go
+1384188872|Dave Collins|M|/test_coverage.txt
+1386724464|Dave Collins|A|/.travis.yml
+1386724464|Dave Collins|M|/README.md
+1388640300|Francis Lam|M|/addrconvs.go
+1388682587|Francis Lam|M|/addrconvs.go
+1388682587|Francis Lam|M|/addrconvs_test.go
+1388684372|Dave Collins|M|/test_coverage.txt
+1388726255|Josh Rickmar|A|/hash160.go
+1388765425|Josh Rickmar|M|/addrconvs.go
+1388765425|Josh Rickmar|A|/address.go
+1388765425|Josh Rickmar|A|/address_test.go
+1388765425|Josh Rickmar|M|/internal_test.go
+1388765425|Josh Rickmar|M|/test_coverage.txt
+1388895781|Dave Collins|M|/hash160.go
+1388948121|Dave Collins|M|/address.go
+1388951335|Dave Collins|M|/address.go
+1389154170|Dave Collins|M|/address_test.go
+1389154393|Dave Collins|M|/address.go
+1389159674|Dave Collins|M|/address_test.go
+1389159674|Dave Collins|M|/internal_test.go
+1389159674|Dave Collins|M|/test_coverage.txt
+1389246365|Dave Collins|M|/addrconvs.go
+1389246365|Dave Collins|M|/addrconvs_test.go
+1389246365|Dave Collins|M|/appdata.go
+1389246365|Dave Collins|M|/appdata_test.go
+1389246365|Dave Collins|M|/base58.go
+1389246365|Dave Collins|M|/base58_test.go
+1389246365|Dave Collins|M|/block.go
+1389246365|Dave Collins|M|/block_test.go
+1389246365|Dave Collins|M|/const.go
+1389246365|Dave Collins|M|/doc.go
+1389246365|Dave Collins|M|/hash160.go
+1389246365|Dave Collins|M|/internal_test.go
+1389246365|Dave Collins|M|/tx.go
+1389246365|Dave Collins|M|/tx_test.go
+1389386155|Josh Rickmar|A|/certgen.go
+1390100347|Dave Collins|M|/block.go
+1390100347|Dave Collins|M|/block_test.go
+1390988926|Dave Collins|M|/certgen.go
+1391548514|David Hill|M|/block_test.go
+1393444847|Dave Collins|M|/address.go
+1393444847|Dave Collins|M|/address_test.go
+1393444847|Dave Collins|M|/internal_test.go
+1395192864|Dave Collins|M|/addrconvs.go
+1395192864|Dave Collins|M|/addrconvs_test.go
+1395192873|Dave Collins|D|/addrconvs.go
+1395192873|Dave Collins|D|/addrconvs_test.go
+1395192873|Dave Collins|M|/address.go
+1395192873|Dave Collins|M|/address_test.go
+1395192885|Dave Collins|M|/address.go
+1395192885|Dave Collins|M|/address_test.go
+1395193314|Dave Collins|M|/address.go
+1395193314|Dave Collins|M|/address_test.go
+1395193314|Dave Collins|M|/test_coverage.txt
+1395545133|Francis Lam|A|/coinset/README.md
+1395545133|Francis Lam|A|/coinset/coins.go
+1395545133|Francis Lam|A|/coinset/coins_test.go
+1395545133|Francis Lam|A|/coinset/cov_report.sh
+1395545133|Francis Lam|A|/coinset/test_coverage.txt
+1395545133|Francis Lam|M|/test_coverage.txt
+1395677443|Dave Collins|M|/coinset/README.md
+1395687309|Dave Collins|M|/test_coverage.txt
+1395687403|Dave Collins|M|/block.go
+1395687403|Dave Collins|M|/block_test.go
+1395687403|Dave Collins|M|/test_coverage.txt
+1395713042|David Hill|M|/coinset/README.md
+1395713146|David Hill|M|/coinset/coins.go
+1396053198|Dave Collins|M|/address.go
+1397068344|Owain G. Ainsworth|M|/address.go
+1397274227|Josh Rickmar|A|/amount.go
+1397274227|Josh Rickmar|A|/amount_test.go
+1397274227|Josh Rickmar|M|/test_coverage.txt
+1397276201|Josh Rickmar|M|/amount.go
+1397276201|Josh Rickmar|M|/amount_test.go
+1397276201|Josh Rickmar|M|/test_coverage.txt
+1397276607|Josh Rickmar|M|/amount.go
+1397276607|Josh Rickmar|M|/amount_test.go
+1397308129|David Hill|M|/coinset/coins_test.go
+1397321872|Josh Rickmar|M|/address.go
+1397322174|Josh Rickmar|M|/address.go
+1397337611|Josh Rickmar|M|/amount.go
+1397337611|Josh Rickmar|M|/amount_test.go
+1397337611|Josh Rickmar|M|/test_coverage.txt
+1397695381|David Hill|M|/base58.go
+1398035914|Josh Rickmar|M|/address.go
+1398035914|Josh Rickmar|M|/address_test.go
+1398035914|Josh Rickmar|M|/test_coverage.txt
+1398297843|Francis Lam|M|/coinset/coins.go
+1398297843|Francis Lam|M|/coinset/coins_test.go
+1398300061|Owain G. Ainsworth|M|/address.go
+1400712577|Josh Rickmar|M|/address.go
+1400712577|Josh Rickmar|M|/address_test.go
+1400712577|Josh Rickmar|M|/test_coverage.txt
+1400712577|Josh Rickmar|A|/wif.go
+1400712577|Josh Rickmar|A|/wif_test.go
+1401228525|Josh Rickmar|M|/address.go
+1401228525|Josh Rickmar|M|/address_test.go
+1401228525|Josh Rickmar|M|/internal_test.go
+1401228525|Josh Rickmar|M|/test_coverage.txt
+1401228525|Josh Rickmar|M|/wif.go
+1401228525|Josh Rickmar|M|/wif_test.go
+1402621896|Josh Rickmar|M|/address.go
+1403543100|Josh Rickmar|M|/amount.go
+1403543100|Josh Rickmar|M|/amount_test.go
+1403543100|Josh Rickmar|M|/const.go
+1403543149|Josh Rickmar|M|/test_coverage.txt
+1403577544|Josh Rickmar|M|/block.go
+1403577544|Josh Rickmar|M|/tx.go
+1403653566|Josh Rickmar|M|/block.go
+1403653566|Josh Rickmar|M|/tx.go
+1403653572|Josh Rickmar|M|/test_coverage.txt
+1404347388|Dave Collins|M|/address.go
+1404347388|Dave Collins|M|/amount_test.go
+1404347388|Dave Collins|M|/appdata_test.go
+1404347388|Dave Collins|M|/base58_test.go
+1404347388|Dave Collins|M|/block.go
+1404347388|Dave Collins|M|/block_test.go
+1404347388|Dave Collins|M|/coinset/coins.go
+1404347388|Dave Collins|M|/coinset/coins_test.go
+1404347388|Dave Collins|M|/hash160.go
+1404347388|Dave Collins|M|/tx.go
+1404347388|Dave Collins|M|/tx_test.go
+1404835992|Josh Rickmar|M|/amount.go
+1404835992|Josh Rickmar|M|/amount_test.go
+1404835992|Josh Rickmar|M|/const.go
+1404930537|David Hill|A|/bloomfilter/cov_report.sh
+1404930537|David Hill|A|/bloomfilter/filter.go
+1404930537|David Hill|A|/bloomfilter/filter_test.go
+1404930537|David Hill|A|/bloomfilter/merkleblock.go
+1404930537|David Hill|A|/bloomfilter/merkleblock_test.go
+1404930537|David Hill|A|/bloomfilter/murmurhash3.go
+1404930537|David Hill|A|/bloomfilter/murmurhash3_test.go
+1404930537|David Hill|A|/bloomfilter/test_coverage.txt
+1404930538|Dave Collins|A|/bloom/cov_report.sh
+1404930538|Dave Collins|A|/bloom/filter.go
+1404930538|Dave Collins|A|/bloom/filter_test.go
+1404930538|Dave Collins|A|/bloom/merkleblock.go
+1404930538|Dave Collins|A|/bloom/merkleblock_test.go
+1404930538|Dave Collins|A|/bloom/murmurhash3.go
+1404930538|Dave Collins|A|/bloom/murmurhash3_test.go
+1404930538|Dave Collins|A|/bloom/test_coverage.txt
+1404930538|Dave Collins|D|/bloomfilter/cov_report.sh
+1404930538|Dave Collins|D|/bloomfilter/filter.go
+1404930538|Dave Collins|D|/bloomfilter/filter_test.go
+1404930538|Dave Collins|D|/bloomfilter/merkleblock.go
+1404930538|Dave Collins|D|/bloomfilter/merkleblock_test.go
+1404930538|Dave Collins|D|/bloomfilter/murmurhash3.go
+1404930538|Dave Collins|D|/bloomfilter/murmurhash3_test.go
+1404930538|Dave Collins|D|/bloomfilter/test_coverage.txt
+1404954105|Dave Collins|M|/bloom/filter_test.go
+1404954105|Dave Collins|M|/bloom/merkleblock.go
+1404954105|Dave Collins|M|/bloom/merkleblock_test.go
+1404954105|Dave Collins|M|/bloom/murmurhash3.go
+1404954105|Dave Collins|M|/bloom/murmurhash3_test.go
+1404955528|Dave Collins|A|/bloom/example_test.go
+1404956173|Dave Collins|M|/README.md
+1404956173|Dave Collins|M|/coinset/README.md
+1404956351|Dave Collins|M|/README.md
+1404956351|Dave Collins|M|/coinset/README.md
+1404956482|Dave Collins|M|/bloom/example_test.go
+1404956604|Dave Collins|A|/bloom/README.md
+1404956852|Dave Collins|M|/bloom/README.md
+1404956852|Dave Collins|M|/coinset/README.md
+1405005044|David Hill|M|/bloom/merkleblock.go
+1406067106|Dave Collins|A|/hdkeychain/README.md
+1406067106|Dave Collins|A|/hdkeychain/bench_test.go
+1406067106|Dave Collins|A|/hdkeychain/cov_report.sh
+1406067106|Dave Collins|A|/hdkeychain/doc.go
+1406067106|Dave Collins|A|/hdkeychain/example_test.go
+1406067106|Dave Collins|A|/hdkeychain/extendedkey.go
+1406067106|Dave Collins|A|/hdkeychain/extendedkey_test.go
+1406067106|Dave Collins|A|/hdkeychain/test_coverage.txt
+1406067434|Dave Collins|M|/hdkeychain/README.md
+1406067495|Dave Collins|M|/hdkeychain/README.md
+1408402460|Dave Collins|M|/hdkeychain/extendedkey.go
+1408402460|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1408403878|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1408403896|Dave Collins|M|/hdkeychain/test_coverage.txt
+1409236369|David Hill|M|/bloom/filter_test.go
+1409366735|David Hill|M|/bloom/filter.go
+1409366735|David Hill|M|/bloom/filter_test.go
+1409366735|David Hill|M|/bloom/test_coverage.txt
+1409429429|Jonathan Gillham|M|/certgen.go
+1409429429|Jonathan Gillham|A|/net.go
+1409429429|Jonathan Gillham|A|/net_noop.go
+1409624168|Josh Rickmar|M|/bloom/filter.go
+1409624168|Josh Rickmar|M|/bloom/test_coverage.txt
+1410204656|Dave Collins|M|/hdkeychain/extendedkey.go
+1410204656|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1411701222|Dave Collins|M|/hdkeychain/extendedkey.go
+1412168082|Jonathan Gillham|M|/block_test.go
+1412168082|Jonathan Gillham|M|/bloom/filter.go
+1412168082|Jonathan Gillham|M|/coinset/coins.go
+1412168082|Jonathan Gillham|M|/coinset/coins_test.go
+1418311723|Josh Rickmar|M|/address.go
+1418311723|Josh Rickmar|M|/address_test.go
+1418311723|Josh Rickmar|M|/hash160.go
+1418311723|Josh Rickmar|M|/internal_test.go
+1418484576|David Hill|M|/certgen.go
+1418484576|David Hill|M|/test_coverage.txt
+1419073319|Dave Collins|M|/.travis.yml
+1419074387|Dave Collins|M|/.travis.yml
+1419074387|Dave Collins|M|/README.md
+1419111008|Dave Collins|A|/certgen_test.go
+1419244987|benma|A|/base58/README.md
+1419244987|benma|A|/base58/base58.go
+1419244987|benma|A|/base58/base58_check.go
+1419244987|benma|A|/base58/base58_check_test.go
+1419244987|benma|A|/base58/base58_test.go
+1419244987|benma|A|/base58/cov_report.sh
+1419246110|benma|M|/address.go
+1419246110|benma|M|/base58.go
+1419246110|benma|D|/base58_test.go
+1419246110|benma|M|/hdkeychain/extendedkey.go
+1419246110|benma|M|/internal_test.go
+1419246110|benma|M|/wif.go
+1419265747|Dave Collins|M|/base58/README.md
+1419265747|Dave Collins|D|/base58/base58_check.go
+1419265747|Dave Collins|D|/base58/base58_check_test.go
+1419265747|Dave Collins|A|/base58/base58check.go
+1419265747|Dave Collins|A|/base58/base58check_test.go
+1419266721|Dave Collins|A|/base58/base58bench_test.go
+1419267360|Dave Collins|D|/base58.go
+1419267360|Dave Collins|M|/base58/base58_test.go
+1419267360|Dave Collins|M|/doc.go
+1419271086|Dave Collins|M|/base58/README.md
+1419271086|Dave Collins|A|/base58/example_test.go
+1419273394|Dave Collins|M|/base58/README.md
+1419273394|Dave Collins|A|/base58/doc.go
+1419277191|Dave Collins|M|/doc.go
+1420208356|Josh Rickmar|M|/amount.go
+1420208356|Josh Rickmar|M|/amount_test.go
+1421356418|Dave Collins|M|/address.go
+1421356418|Dave Collins|M|/address_test.go
+1421356418|Dave Collins|M|/amount_test.go
+1421356418|Dave Collins|M|/appdata_test.go
+1421356418|Dave Collins|M|/base58/base58_test.go
+1421356418|Dave Collins|M|/base58/base58bench_test.go
+1421356418|Dave Collins|M|/base58/base58check_test.go
+1421356418|Dave Collins|M|/base58/example_test.go
+1421356418|Dave Collins|M|/block_test.go
+1421356418|Dave Collins|M|/bloom/example_test.go
+1421356418|Dave Collins|M|/bloom/filter.go
+1421356418|Dave Collins|M|/bloom/filter_test.go
+1421356418|Dave Collins|M|/bloom/merkleblock.go
+1421356418|Dave Collins|M|/bloom/merkleblock_test.go
+1421356418|Dave Collins|M|/bloom/murmurhash3_test.go
+1421356418|Dave Collins|M|/certgen_test.go
+1421356418|Dave Collins|M|/coinset/coins.go
+1421356418|Dave Collins|M|/coinset/coins_test.go
+1421356418|Dave Collins|M|/hdkeychain/bench_test.go
+1421356418|Dave Collins|M|/hdkeychain/example_test.go
+1421356418|Dave Collins|M|/hdkeychain/extendedkey.go
+1421356418|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1421356418|Dave Collins|M|/internal_test.go
+1421356418|Dave Collins|M|/tx_test.go
+1421356418|Dave Collins|M|/wif.go
+1421356418|Dave Collins|M|/wif_test.go
+1421379329|Dave Collins|M|/README.md
+1421379329|Dave Collins|M|/base58/README.md
+1421379329|Dave Collins|M|/bloom/README.md
+1421379329|Dave Collins|M|/coinset/README.md
+1421379329|Dave Collins|M|/hdkeychain/README.md
+1421421622|Dave Collins|M|/coinset/coins_test.go
+1421421622|Dave Collins|M|/hash160.go
+1421443610|Dave Collins|M|/address_test.go
+1421443610|Dave Collins|M|/block.go
+1421443610|Dave Collins|M|/block_test.go
+1421443610|Dave Collins|M|/bloom/example_test.go
+1421443610|Dave Collins|M|/bloom/filter.go
+1421443610|Dave Collins|M|/bloom/filter_test.go
+1421443610|Dave Collins|M|/bloom/merkleblock.go
+1421443610|Dave Collins|M|/bloom/merkleblock_test.go
+1421443610|Dave Collins|M|/coinset/coins.go
+1421443610|Dave Collins|M|/coinset/coins_test.go
+1421443610|Dave Collins|M|/hdkeychain/extendedkey.go
+1421443610|Dave Collins|M|/tx.go
+1421443610|Dave Collins|M|/tx_test.go
+1421443610|Dave Collins|M|/wif.go
+1421451378|Dave Collins|M|/address.go
+1421451378|Dave Collins|M|/address_test.go
+1421451378|Dave Collins|M|/hdkeychain/example_test.go
+1421451378|Dave Collins|M|/hdkeychain/extendedkey.go
+1421451378|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1421451378|Dave Collins|M|/wif.go
+1421451378|Dave Collins|M|/wif_test.go
+1421453063|Dave Collins|M|/address.go
+1421453063|Dave Collins|M|/hdkeychain/extendedkey.go
+1421453063|Dave Collins|M|/internal_test.go
+1421453063|Dave Collins|M|/wif.go
+1421453063|Dave Collins|M|/wif_test.go
+1421455521|Dave Collins|M|/bloom/merkleblock.go
+1421458554|Dave Collins|M|/bloom/filter.go
+1422129591|Josh Rickmar|A|/base58/alphabet.go
+1422129591|Josh Rickmar|M|/base58/base58.go
+1422129591|Josh Rickmar|A|/base58/genalphabet.go
+1422641492|Dave Collins|M|/bloom/filter.go
+1422641492|Dave Collins|M|/coinset/coins.go
+1422656157|Dave Collins|M|/bloom/merkleblock.go
+1423169318|Dave Collins|M|/address_test.go
+1423169318|Dave Collins|M|/block.go
+1423169318|Dave Collins|M|/block_test.go
+1423169318|Dave Collins|M|/bloom/example_test.go
+1423169318|Dave Collins|M|/bloom/filter.go
+1423169318|Dave Collins|M|/bloom/filter_test.go
+1423169318|Dave Collins|M|/bloom/merkleblock.go
+1423169318|Dave Collins|M|/bloom/merkleblock_test.go
+1423169318|Dave Collins|M|/coinset/coins.go
+1423169318|Dave Collins|M|/coinset/coins_test.go
+1423169318|Dave Collins|M|/hdkeychain/extendedkey.go
+1423169318|Dave Collins|M|/tx.go
+1423169318|Dave Collins|M|/tx_test.go
+1423169318|Dave Collins|M|/wif.go
+1423176963|Josh Rickmar|M|/.travis.yml
+1423200603|Dave Collins|M|/address.go
+1423200603|Dave Collins|M|/address_test.go
+1423200603|Dave Collins|M|/doc.go
+1423200603|Dave Collins|M|/hdkeychain/README.md
+1423200603|Dave Collins|M|/hdkeychain/example_test.go
+1423200603|Dave Collins|M|/hdkeychain/extendedkey.go
+1423200603|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1423200603|Dave Collins|M|/wif.go
+1423200603|Dave Collins|M|/wif_test.go
+1423240518|Dave Collins|M|/address.go
+1423240518|Dave Collins|M|/hdkeychain/extendedkey.go
+1423240518|Dave Collins|M|/internal_test.go
+1423240518|Dave Collins|M|/wif.go
+1423240518|Dave Collins|M|/wif_test.go
+1425438543|Dave Collins|M|/address.go
+1425438543|Dave Collins|M|/address_test.go
+1425438543|Dave Collins|M|/hash160.go
+1425438543|Dave Collins|M|/internal_test.go
+1429249328|Dave Collins|M|/block.go
+1429249328|Dave Collins|M|/block_test.go
+1429251220|Dave Collins|M|/block.go
+1429251220|Dave Collins|M|/tx.go
+1430502118|Dave Collins|M|/README.md
+1430502118|Dave Collins|M|/address.go
+1430502118|Dave Collins|M|/address_test.go
+1430502118|Dave Collins|M|/amount.go
+1430502118|Dave Collins|M|/amount_test.go
+1430502118|Dave Collins|M|/appdata.go
+1430502118|Dave Collins|M|/appdata_test.go
+1430502118|Dave Collins|M|/base58/alphabet.go
+1430502118|Dave Collins|M|/base58/base58.go
+1430502118|Dave Collins|M|/base58/base58_test.go
+1430502118|Dave Collins|M|/base58/base58bench_test.go
+1430502118|Dave Collins|M|/base58/base58check.go
+1430502118|Dave Collins|M|/base58/base58check_test.go
+1430502118|Dave Collins|M|/base58/doc.go
+1430502118|Dave Collins|M|/base58/example_test.go
+1430502118|Dave Collins|M|/base58/genalphabet.go
+1430502118|Dave Collins|M|/block.go
+1430502118|Dave Collins|M|/block_test.go
+1430502118|Dave Collins|M|/bloom/example_test.go
+1430502118|Dave Collins|M|/bloom/filter.go
+1430502118|Dave Collins|M|/bloom/filter_test.go
+1430502118|Dave Collins|M|/bloom/merkleblock.go
+1430502118|Dave Collins|M|/bloom/merkleblock_test.go
+1430502118|Dave Collins|M|/bloom/murmurhash3.go
+1430502118|Dave Collins|M|/bloom/murmurhash3_test.go
+1430502118|Dave Collins|M|/certgen.go
+1430502118|Dave Collins|M|/certgen_test.go
+1430502118|Dave Collins|M|/const.go
+1430502118|Dave Collins|M|/doc.go
+1430502118|Dave Collins|M|/hash160.go
+1430502118|Dave Collins|M|/hdkeychain/bench_test.go
+1430502118|Dave Collins|M|/hdkeychain/doc.go
+1430502118|Dave Collins|M|/hdkeychain/example_test.go
+1430502118|Dave Collins|M|/hdkeychain/extendedkey.go
+1430502118|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1430502118|Dave Collins|M|/internal_test.go
+1430502118|Dave Collins|M|/net.go
+1430502118|Dave Collins|M|/net_noop.go
+1430502118|Dave Collins|M|/tx.go
+1430502118|Dave Collins|M|/tx_test.go
+1430502118|Dave Collins|M|/wif.go
+1430502118|Dave Collins|M|/wif_test.go
+1434055184|Josh Rickmar|M|/hdkeychain/extendedkey_test.go
+1434399248|Josh Rickmar|M|/certgen.go
+1434399248|Josh Rickmar|M|/certgen_test.go
+1437391246|Mawuli Adzoe|M|/amount.go
+1437391246|Mawuli Adzoe|M|/amount_test.go
+1437450616|Mawuli Adzoe|A|/example_test.go
+1437600010|Mawuli Adzoe|M|/example_test.go
+1437721183|Mawuli Adzoe|M|/hdkeychain/example_test.go
+1438073119|Dave Collins|M|/.travis.yml
+1438073119|Dave Collins|A|/goclean.sh
+1438074169|Dave Collins|M|/bloom/merkleblock.go
+1439004627|Dave Collins|M|/block.go
+1439004627|Dave Collins|M|/block_test.go
+1439362910|Mawuli Adzoe|M|/amount.go
+1445582993|tx|A|/txsort.go
+1445582993|tx|A|/txsort_test.go
+1445620168|Dave Collins|D|/txsort.go
+1445620168|Dave Collins|A|/txsort/README.md
+1445620168|Dave Collins|A|/txsort/doc.go
+1445620168|Dave Collins|A|/txsort/txsort.go
+1445620168|Dave Collins|A|/txsort/txsort_test.go
+1445620168|Dave Collins|D|/txsort_test.go
+1445622227|Dave Collins|A|/txsort/testdata/li01-1.hex
+1445622227|Dave Collins|A|/txsort/testdata/li01-2.hex
+1445622227|Dave Collins|A|/txsort/testdata/li01-3.hex
+1445622227|Dave Collins|A|/txsort/testdata/li01-4.hex
+1445622227|Dave Collins|A|/txsort/testdata/li01-5.hex
+1445622227|Dave Collins|M|/txsort/txsort.go
+1445622227|Dave Collins|M|/txsort/txsort_test.go
+1445622366|Dave Collins|M|/txsort/txsort.go
+1445622366|Dave Collins|M|/txsort/txsort_test.go
+1445628852|Dave Collins|M|/txsort/txsort_test.go
+1445638658|Dave Collins|M|/README.md
+1445638658|Dave Collins|M|/base58/README.md
+1445638658|Dave Collins|M|/bloom/README.md
+1445638658|Dave Collins|M|/coinset/README.md
+1445638658|Dave Collins|M|/hdkeychain/README.md
+1445638658|Dave Collins|M|/txsort/README.md
+1447176701|Dave Collins|M|/hdkeychain/example_test.go
+1447176701|Dave Collins|M|/hdkeychain/extendedkey.go
+1447176701|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1455060865|Dave Collins|M|/hdkeychain/extendedkey.go
+1455060865|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1456554035|Tadge Dryja|M|/bloom/filter.go
+1456554035|Tadge Dryja|M|/bloom/filter_test.go
+1458667992|Dave Collins|M|/bloom/merkleblock_test.go
+1458668387|Dave Collins|M|/.travis.yml
+1458676175|Olaoluwa Osuntokun|M|/txsort/README.md
+1458676175|Olaoluwa Osuntokun|M|/txsort/doc.go
+1458676175|Olaoluwa Osuntokun|A|/txsort/testdata/bip69-1.hex
+1458676175|Olaoluwa Osuntokun|A|/txsort/testdata/bip69-2.hex
+1458676175|Olaoluwa Osuntokun|A|/txsort/testdata/bip69-3.hex
+1458676175|Olaoluwa Osuntokun|A|/txsort/testdata/bip69-4.hex
+1458676175|Olaoluwa Osuntokun|A|/txsort/testdata/bip69-5.hex
+1458676175|Olaoluwa Osuntokun|D|/txsort/testdata/li01-1.hex
+1458676175|Olaoluwa Osuntokun|D|/txsort/testdata/li01-2.hex
+1458676175|Olaoluwa Osuntokun|D|/txsort/testdata/li01-3.hex
+1458676175|Olaoluwa Osuntokun|D|/txsort/testdata/li01-4.hex
+1458676175|Olaoluwa Osuntokun|D|/txsort/testdata/li01-5.hex
+1458676175|Olaoluwa Osuntokun|M|/txsort/txsort.go
+1458676175|Olaoluwa Osuntokun|M|/txsort/txsort_test.go
+1460053549|Dave Collins|M|/.travis.yml
+1461400497|Dave Collins|M|/bloom/example_test.go
+1461400497|Dave Collins|M|/bloom/filter.go
+1470677896|Dave Collins|M|/block.go
+1470677896|Dave Collins|M|/block_test.go
+1470677896|Dave Collins|M|/bloom/example_test.go
+1470677896|Dave Collins|M|/bloom/filter.go
+1470677896|Dave Collins|M|/bloom/filter_test.go
+1470677896|Dave Collins|M|/bloom/merkleblock.go
+1470677896|Dave Collins|M|/bloom/merkleblock_test.go
+1470677896|Dave Collins|M|/coinset/coins.go
+1470677896|Dave Collins|M|/coinset/coins_test.go
+1470677896|Dave Collins|M|/hdkeychain/extendedkey.go
+1470677896|Dave Collins|M|/tx.go
+1470677896|Dave Collins|M|/tx_test.go
+1470677896|Dave Collins|M|/txsort/txsort.go
+1470677896|Dave Collins|M|/txsort/txsort_test.go
+1470677896|Dave Collins|M|/wif.go
+1470966386|Waldir Pimenta|M|/LICENSE
+1471457609|David Hill|M|/.travis.yml
+1477540186|Dave Collins|M|/coinset/coins.go
+1477540186|Dave Collins|M|/coinset/coins_test.go
+1477600064|Dave Collins|M|/coinset/coins_test.go
+1479318024|David Hill|M|/block.go
+1479332248|Dave Collins|M|/LICENSE
+1480613018|John C. Vernaleo|M|/.travis.yml
+1480613018|John C. Vernaleo|M|/goclean.sh
+1480633370|David Hill|M|/bloom/merkleblock.go
+1480633370|David Hill|M|/bloom/murmurhash3.go
+1480633370|David Hill|M|/goclean.sh
+1481123555|John C. Vernaleo|M|/goclean.sh
+1484086140|David Hill|M|/coinset/coins_test.go
+1484086140|David Hill|M|/hash160.go
+1484167124|David Hill|M|/.travis.yml
+1484167124|David Hill|M|/address_test.go
+1484167124|David Hill|M|/appdata.go
+1484167124|David Hill|M|/base58/base58_test.go
+1484167124|David Hill|M|/coinset/coins.go
+1484167124|David Hill|M|/goclean.sh
+1484167124|David Hill|M|/hdkeychain/extendedkey_test.go
+1492611289|David Hill|M|/.travis.yml
+1492611289|David Hill|M|/base58/base58.go
+1494302727|David Hill|M|/address.go
+1494302727|David Hill|M|/address_test.go
+1494302727|David Hill|M|/hash160.go
+1494302727|David Hill|M|/internal_test.go
+1494348057|Thomas Kerin|M|/hdkeychain/extendedkey.go
+1494348057|Thomas Kerin|M|/hdkeychain/extendedkey_test.go
+1494349742|Dave Collins|M|/hdkeychain/extendedkey.go
+1494349742|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1494393586|Dave Collins|M|/hdkeychain/extendedkey_test.go
+1495735270|Dave Collins|M|/README.md
+1495735270|Dave Collins|M|/base58/README.md
+1495735270|Dave Collins|M|/bloom/README.md
+1495735270|Dave Collins|M|/coinset/README.md
+1495735270|Dave Collins|M|/hdkeychain/README.md
+1495735270|Dave Collins|M|/txsort/README.md
+1496688103|Chris Pacia|M|/hdkeychain/extendedkey.go
+1497225733|Thomas Kerin|M|/hdkeychain/extendedkey.go
+1497225733|Thomas Kerin|M|/hdkeychain/extendedkey_test.go
+1501038841|Johan T. Halseth|A|/bech32/README.md
+1501038841|Johan T. Halseth|A|/bech32/bech32.go
+1501038841|Johan T. Halseth|A|/bech32/bech32_test.go
+1501038841|Johan T. Halseth|A|/bech32/doc.go
+1501038841|Johan T. Halseth|A|/bech32/example_test.go
+1501038841|Johan T. Halseth|M|/address.go
+1501038841|Johan T. Halseth|M|/address_test.go
+1501038841|Johan T. Halseth|M|/internal_test.go
+1501094169|Olaoluwa Osuntokun|M|/block.go
+1501094173|Olaoluwa Osuntokun|M|/tx.go
+1501094179|Olaoluwa Osuntokun|M|/tx.go
+1506286672|tecnovert|M|/address.go
+1506286672|tecnovert|M|/address_test.go
+1506286672|tecnovert|M|/amount.go
+1506286672|tecnovert|M|/amount_test.go
+1506286672|tecnovert|M|/appdata.go
+1506286672|tecnovert|M|/appdata_test.go
+1506286672|tecnovert|M|/base58/base58_test.go
+1506286672|tecnovert|M|/base58/base58bench_test.go
+1506286672|tecnovert|M|/base58/base58check_test.go
+1506286672|tecnovert|M|/base58/example_test.go
+1506286672|tecnovert|M|/bech32/bech32_test.go
+1506286672|tecnovert|M|/bech32/example_test.go
+1506286672|tecnovert|M|/block.go
+1506286672|tecnovert|M|/block_test.go
+1506286672|tecnovert|M|/bloom/example_test.go
+1506286672|tecnovert|M|/bloom/filter.go
+1506286672|tecnovert|M|/bloom/filter_test.go
+1506286672|tecnovert|M|/bloom/merkleblock.go
+1506286672|tecnovert|M|/bloom/merkleblock_test.go
+1506286672|tecnovert|M|/bloom/murmurhash3_test.go
+1506286672|tecnovert|M|/certgen.go
+1506286672|tecnovert|M|/certgen_test.go
+1506286672|tecnovert|M|/coinset/coins.go
+1506286672|tecnovert|M|/coinset/coins_test.go
+1506286672|tecnovert|M|/const.go
+1506286672|tecnovert|M|/doc.go
+1506286672|tecnovert|M|/example_test.go
+1506286672|tecnovert|M|/hash160.go
+1506286672|tecnovert|M|/hdkeychain/bench_test.go
+1506286672|tecnovert|M|/hdkeychain/example_test.go
+1506286672|tecnovert|M|/hdkeychain/extendedkey.go
+1506286672|tecnovert|M|/hdkeychain/extendedkey_test.go
+1506286672|tecnovert|M|/internal_test.go
+1506286672|tecnovert|M|/net.go
+1506286672|tecnovert|M|/net_noop.go
+1506286672|tecnovert|M|/tx.go
+1506286672|tecnovert|M|/tx_test.go
+1506286672|tecnovert|M|/txsort/txsort.go
+1506286672|tecnovert|M|/txsort/txsort_test.go
+1506286672|tecnovert|M|/wif.go
+1506286672|tecnovert|M|/wif_test.go
