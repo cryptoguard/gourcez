@@ -1,0 +1,484 @@
+1464292334|Nicolas Bacca|A|/blue-app-btc/LICENSE
+1464292334|Nicolas Bacca|A|/blue-app-btc/README.md
+1464809538|BTChip|A|/blue-app-btc/.gitignore
+1464809538|BTChip|A|/blue-app-btc/Makefile
+1464809538|BTChip|M|/blue-app-btc/README.md
+1464809538|BTChip|A|/blue-app-btc/TODO.md
+1464809538|BTChip|A|/blue-app-btc/include/btchip.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_apdu_constants.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_base58.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_bcd.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_config.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_context.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_ecc.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_filesystem.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_filesystem_tx.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_helpers.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_public_ram_key_variables.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_public_ram_variables.h
+1464809538|BTChip|A|/blue-app-btc/include/btchip_secure_value.h
+1464809538|BTChip|A|/blue-app-btc/script.ld
+1464809538|BTChip|A|/blue-app-btc/src/btchip.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_get_firmware_version.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_get_operation_mode.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_get_random.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_get_trusted_input.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_hash_input_start.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_hash_sign.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_set_operation_mode.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_setup.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_sign_message.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_apdu_verify_pin.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_bagl_extensions.h
+1464809538|BTChip|A|/blue-app-btc/src/btchip_base58.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_bcd.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_context.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_ecc.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_filesystem.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_helpers.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_internal.h
+1464809538|BTChip|A|/blue-app-btc/src/btchip_nvram.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_public_ram_key_variables.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_public_ram_key_variables.h
+1464809538|BTChip|A|/blue-app-btc/src/btchip_public_ram_variables.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_public_ram_variables.h
+1464809538|BTChip|A|/blue-app-btc/src/btchip_rom_variables.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_rom_variables.h
+1464809538|BTChip|A|/blue-app-btc/src/btchip_secure_value.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_transaction.c
+1464809538|BTChip|A|/blue-app-btc/src/btchip_transaction.h
+1464809538|BTChip|A|/blue-app-btc/src/main.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Class/HID/Inc/usbd_customhid.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Class/HID/Src/usbd_customhid.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_conf_template.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_core.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_def.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_conf_template.c.no
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_core.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/STM32_USB_Device_Library/Release_Notes.html
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_conf.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_conf.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_customhid_if_template.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_customhid_if_template.h
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_desc.c
+1464809538|BTChip|A|/blue-app-btc/src_usb/usbd_desc.h
+1469950453|BTChip|M|/blue-app-btc/Makefile
+1469950453|BTChip|M|/blue-app-btc/README.md
+1469950453|BTChip|M|/blue-app-btc/TODO.md
+1469950453|BTChip|A|/blue-app-btc/icon.gif
+1469950453|BTChip|M|/blue-app-btc/include/btchip_apdu_constants.h
+1469950453|BTChip|M|/blue-app-btc/include/btchip_context.h
+1469950453|BTChip|M|/blue-app-btc/include/btchip_filesystem_tx.h
+1469950453|BTChip|M|/blue-app-btc/script.ld
+1469950453|BTChip|M|/blue-app-btc/src/btchip.c
+1469950453|BTChip|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1469950453|BTChip|M|/blue-app-btc/src/btchip_apdu_setup.c
+1469950453|BTChip|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1469950453|BTChip|M|/blue-app-btc/src/btchip_bagl_extensions.h
+1469950453|BTChip|M|/blue-app-btc/src/btchip_rom_variables.c
+1469950453|BTChip|M|/blue-app-btc/src/btchip_rom_variables.h
+1469950453|BTChip|M|/blue-app-btc/src/btchip_transaction.h
+1469950453|BTChip|M|/blue-app-btc/src/main.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Class/HID/Inc/usbd_customhid.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Class/HID/Src/usbd_customhid.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_conf_template.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_core.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_ctlreq.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_def.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_conf_template.c.no
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_core.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Core/Src/usbd_ioreq.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/STM32_USB_Device_Library/Release_Notes.html
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_conf.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_conf.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_customhid_if_template.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_customhid_if_template.h
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_desc.c
+1469950453|BTChip|D|/blue-app-btc/src_usb/usbd_desc.h
+1470736643|BTChip|M|/blue-app-btc/Makefile
+1471008093|BTChip|M|/blue-app-btc/Makefile
+1471009217|BTChip|M|/blue-app-btc/Makefile
+1471009217|BTChip|M|/blue-app-btc/include/btchip_context.h
+1471009217|BTChip|M|/blue-app-btc/include/btchip_filesystem.h
+1471009217|BTChip|D|/blue-app-btc/script.ld
+1471009217|BTChip|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1471009217|BTChip|M|/blue-app-btc/src/btchip_helpers.c
+1471009217|BTChip|M|/blue-app-btc/src/btchip_nvram.c
+1471009217|BTChip|M|/blue-app-btc/src/main.c
+1475087229|BTChip|M|/blue-app-btc/Makefile
+1476739048|BTChip|M|/blue-app-btc/.gitignore
+1476739048|BTChip|M|/blue-app-btc/TODO.md
+1476739048|BTChip|A|/blue-app-btc/glyphs/icon_litecoin.gif
+1476739048|BTChip|D|/blue-app-btc/icon.gif
+1476739048|BTChip|A|/blue-app-btc/icon_bitcoin.gif
+1476739048|BTChip|A|/blue-app-btc/icon_litecoin.gif
+1476739048|BTChip|M|/blue-app-btc/include/btchip_apdu_constants.h
+1476739048|BTChip|M|/blue-app-btc/include/btchip_context.h
+1476739048|BTChip|M|/blue-app-btc/include/btchip_filesystem.h
+1476739048|BTChip|A|/blue-app-btc/src/btchip_apdu_get_coin_version.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_apdu_setup.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_context.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_rom_variables.c
+1476739048|BTChip|M|/blue-app-btc/src/btchip_rom_variables.h
+1476739048|BTChip|M|/blue-app-btc/src/main.c
+1476739216|BTChip|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1476739216|BTChip|M|/blue-app-btc/src/btchip_bagl_extensions.h
+1476739216|BTChip|M|/blue-app-btc/src/main.c
+1476739414|BTChip|M|/blue-app-btc/src/main.c
+1476739792|BTChip|M|/blue-app-btc/Makefile
+1479483651|BTChip|A|/blue-app-btc/glyphs/icon_dash.gif
+1479483651|BTChip|A|/blue-app-btc/glyphs/icon_doge.gif
+1479483651|BTChip|A|/blue-app-btc/glyphs/icon_zcash.gif
+1479483651|BTChip|A|/blue-app-btc/icon_dash.gif
+1479483651|BTChip|A|/blue-app-btc/icon_doge.gif
+1479483651|BTChip|A|/blue-app-btc/icon_zcash.gif
+1479483680|BTChip|M|/blue-app-btc/Makefile
+1479483680|BTChip|M|/blue-app-btc/include/btchip_context.h
+1479483680|BTChip|M|/blue-app-btc/include/btchip_filesystem.h
+1479483680|BTChip|M|/blue-app-btc/include/btchip_helpers.h
+1479483680|BTChip|M|/blue-app-btc/src/btchip_apdu_get_coin_version.c
+1479483680|BTChip|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1479483680|BTChip|M|/blue-app-btc/src/btchip_apdu_setup.c
+1479483680|BTChip|M|/blue-app-btc/src/btchip_context.c
+1479483680|BTChip|M|/blue-app-btc/src/btchip_helpers.c
+1479483680|BTChip|M|/blue-app-btc/src/main.c
+1479483715|BTChip|M|/blue-app-btc/src/btchip_bcd.c
+1480341652|BTChip|M|/blue-app-btc/Makefile
+1480341652|BTChip|M|/blue-app-btc/include/btchip_context.h
+1480341652|BTChip|M|/blue-app-btc/include/btchip_filesystem.h
+1480341652|BTChip|A|/blue-app-btc/script.ld
+1480341652|BTChip|M|/blue-app-btc/src/btchip.c
+1480341652|BTChip|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1480341652|BTChip|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1480341652|BTChip|M|/blue-app-btc/src/btchip_helpers.c
+1480341652|BTChip|M|/blue-app-btc/src/main.c
+1480341652|BTChip|A|/blue-app-btc/src/u2f_io.c
+1480341652|BTChip|A|/blue-app-btc/src/u2f_io.h
+1480341652|BTChip|A|/blue-app-btc/src/u2f_processing.c
+1480341652|BTChip|A|/blue-app-btc/src/u2f_processing.h
+1480341652|BTChip|A|/blue-app-btc/src/u2f_service.c
+1480341652|BTChip|A|/blue-app-btc/src/u2f_service.h
+1480341652|BTChip|A|/blue-app-btc/src/u2f_timer.h
+1480341652|BTChip|A|/blue-app-btc/src/u2f_transport.c
+1480341652|BTChip|A|/blue-app-btc/src/u2f_transport.h
+1480341652|BTChip|A|/blue-app-btc/src/usbd_hid_impl.c
+1480346015|BTChip|M|/blue-app-btc/README.md
+1480346015|BTChip|A|/blue-app-btc/js/bundle.sh
+1480346015|BTChip|A|/blue-app-btc/js/dist/ledger-btc.js
+1480346015|BTChip|A|/blue-app-btc/js/ledger-btc.js
+1480346015|BTChip|A|/blue-app-btc/js/ledger3q.js
+1480346015|BTChip|A|/blue-app-btc/js/thirdparty/async.min.js
+1480346015|BTChip|A|/blue-app-btc/js/thirdparty/q.js
+1480346015|BTChip|A|/blue-app-btc/js/thirdparty/u2f-api.js
+1481476149|BTChip|M|/blue-app-btc/Makefile
+1481476149|BTChip|A|/blue-app-btc/glyphs/icon_back.gif
+1481476169|BTChip|M|/blue-app-btc/src/main.c
+1481476226|BTChip|M|/blue-app-btc/include/btchip_context.h
+1481476226|BTChip|M|/blue-app-btc/src/btchip_transaction.c
+1481650763|BTChip|M|/blue-app-btc/README.md
+1481650763|BTChip|M|/blue-app-btc/js/dist/ledger-btc.js
+1481650763|BTChip|M|/blue-app-btc/js/ledger-btc.js
+1484799791|BTChip|M|/blue-app-btc/js/dist/ledger-btc.js
+1484799791|BTChip|M|/blue-app-btc/js/ledger-btc.js
+1485105441|BTChip|M|/blue-app-btc/.gitignore
+1485105441|BTChip|M|/blue-app-btc/Makefile
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_bitcoin.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_dash.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_dogecoin.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_litecoin.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_transaction.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/badge_zcash.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_bitcoin.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_bitcoin_testnet.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_dogecoin.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_stratis.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_toggle_reset.gif
+1485105441|BTChip|A|/blue-app-btc/glyphs/icon_toggle_set.gif
+1485105441|BTChip|A|/blue-app-btc/icon_bitcoin_blue.gif
+1485105441|BTChip|A|/blue-app-btc/icon_bitcoin_testnet.gif
+1485105441|BTChip|A|/blue-app-btc/icon_bitcoin_testnet_blue.gif
+1485105441|BTChip|A|/blue-app-btc/icon_dash_blue.gif
+1485105441|BTChip|A|/blue-app-btc/icon_dogecoin.gif
+1485105441|BTChip|A|/blue-app-btc/icon_dogecoin_blue.gif
+1485105441|BTChip|A|/blue-app-btc/icon_litecoin_blue.gif
+1485105441|BTChip|A|/blue-app-btc/icon_stratis.gif
+1485105441|BTChip|A|/blue-app-btc/icon_zcash_blue.gif
+1485105441|BTChip|D|/blue-app-btc/script.ld
+1485105495|BTChip|M|/blue-app-btc/include/btchip_filesystem.h
+1485105495|BTChip|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1485105495|BTChip|M|/blue-app-btc/src/btchip_transaction.c
+1485105720|BTChip|M|/blue-app-btc/include/btchip_context.h
+1485105720|BTChip|M|/blue-app-btc/src/btchip.c
+1485105720|BTChip|M|/blue-app-btc/src/main.c
+1485105720|BTChip|M|/blue-app-btc/src/u2f_processing.c
+1485105720|BTChip|M|/blue-app-btc/src/u2f_service.c
+1485105720|BTChip|M|/blue-app-btc/src/usbd_hid_impl.c
+1488539271|BTChip github|M|/blue-app-btc/Makefile
+1488539271|BTChip github|A|/blue-app-btc/glyphs/icon_dashboard.gif
+1488539271|BTChip github|A|/blue-app-btc/glyphs/icon_peercoin.gif
+1488539271|BTChip github|A|/blue-app-btc/icon_peercoin.gif
+1488539271|BTChip github|M|/blue-app-btc/include/btchip_context.h
+1488539271|BTChip github|M|/blue-app-btc/include/btchip_filesystem_tx.h
+1488539271|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1488539271|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1488539271|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_start.c
+1488539271|BTChip github|M|/blue-app-btc/src/btchip_bagl_extensions.h
+1488539271|BTChip github|M|/blue-app-btc/src/btchip_context.c
+1488539271|BTChip github|M|/blue-app-btc/src/main.c
+1488539271|BTChip github|M|/blue-app-btc/src/usbd_hid_impl.c
+1490738601|BTChip github|M|/blue-app-btc/Makefile
+1490738601|BTChip github|A|/blue-app-btc/glyphs/badge_bitcoin_testnet.gif
+1490738601|BTChip github|A|/blue-app-btc/glyphs/badge_komodo.gif
+1490738601|BTChip github|A|/blue-app-btc/glyphs/badge_peercoin.gif
+1490738601|BTChip github|A|/blue-app-btc/glyphs/badge_stratis.gif
+1490738601|BTChip github|A|/blue-app-btc/glyphs/icon_komodo.gif
+1490738601|BTChip github|A|/blue-app-btc/icon_komodo.gif
+1490738601|BTChip github|A|/blue-app-btc/icon_komodo_blue.gif
+1490738601|BTChip github|A|/blue-app-btc/icon_peercoin_blue.gif
+1490738601|BTChip github|A|/blue-app-btc/icon_stratis_blue.gif
+1490738601|BTChip github|M|/blue-app-btc/src/main.c
+1490738601|BTChip github|M|/blue-app-btc/src/usbd_hid_impl.c
+1490738601|BTChip github|A|/blue-app-btc/src/usbd_hid_impl.h
+1500978445|BTChip github|M|/blue-app-btc/Makefile
+1500978445|BTChip github|A|/blue-app-btc/blue_app_bitcoin.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_bitcoin_testnet.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_dash.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_dogecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_komodo.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_litecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_peercoin.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_posw.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_stratis.gif
+1500978445|BTChip github|A|/blue-app-btc/blue_app_zcash.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_bitcoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_bitcoin_testnet.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_dash.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_dogecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_komodo.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_litecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_peercoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_stratis.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_transaction.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/badge_zcash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_bitcoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_bitcoin_testnet.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_dash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_dogecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_komodo.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_litecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_peercoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_posw.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_stratis.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_transaction.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_badge_zcash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_icon_toggle_reset.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/blue_icon_toggle_set.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_back.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_bitcoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_bitcoin_testnet.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_dash.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_dashboard.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_doge.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_dogecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_komodo.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_litecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_peercoin.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_stratis.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_toggle_reset.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_toggle_set.gif
+1500978445|BTChip github|D|/blue-app-btc/glyphs/icon_zcash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_bitcoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_bitcoin_testnet.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_dash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_dogecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_komodo.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_litecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_peercoin.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_posw.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_stratis.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_zcash.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_icon_back.gif
+1500978445|BTChip github|A|/blue-app-btc/glyphs/nanos_icon_dashboard.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_bitcoin.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_bitcoin_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_bitcoin_testnet.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_bitcoin_testnet_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_dash.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_dash_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_doge.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_dogecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_dogecoin_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_komodo.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_komodo_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_litecoin.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_litecoin_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_peercoin.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_peercoin_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_stratis.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_stratis_blue.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_zcash.gif
+1500978445|BTChip github|D|/blue-app-btc/icon_zcash_blue.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_bitcoin.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_bitcoin_testnet.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_dash.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_dogecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_komodo.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_litecoin.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_peercoin.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_posw.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_stratis.gif
+1500978445|BTChip github|A|/blue-app-btc/nanos_app_zcash.gif
+1500978445|BTChip github|M|/blue-app-btc/src/btchip.c
+1500978445|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_start.c
+1500978445|BTChip github|M|/blue-app-btc/src/main.c
+1501631820|BTChip github|M|/blue-app-btc/Makefile
+1501631820|BTChip github|A|/blue-app-btc/blue_app_bitcoin_cash.gif
+1501631820|BTChip github|A|/blue-app-btc/glyphs/blue_badge_bitcoin_cash.gif
+1501631820|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_bitcoin_cash.gif
+1501631820|BTChip github|A|/blue-app-btc/nanos_app_bitcoin_cash.gif
+1501631820|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_trusted_input.c
+1501631820|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_sign.c
+1508508619|BTChip github|M|/blue-app-btc/Makefile
+1508508619|BTChip github|A|/blue-app-btc/blue_app_pivx.gif
+1508508619|BTChip github|A|/blue-app-btc/blue_app_vertcoin.gif
+1508508619|BTChip github|A|/blue-app-btc/blue_app_viacoin.gif
+1508508619|BTChip github|A|/blue-app-btc/doc/btc.asc
+1508508619|BTChip github|A|/blue-app-btc/glyphs/blue_badge_pivx.gif
+1508508619|BTChip github|A|/blue-app-btc/glyphs/blue_badge_vertcoin.gif
+1508508619|BTChip github|A|/blue-app-btc/glyphs/blue_badge_viacoin.gif
+1508508619|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_pivx.gif
+1508508619|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_vertcoin.gif
+1508508619|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_viacoin.gif
+1508508619|BTChip github|M|/blue-app-btc/include/btchip_context.h
+1508508619|BTChip github|M|/blue-app-btc/include/btchip_helpers.h
+1508508619|BTChip github|A|/blue-app-btc/nanos_app_pivx.gif
+1508508619|BTChip github|A|/blue-app-btc/nanos_app_vertcoin.gif
+1508508619|BTChip github|A|/blue-app-btc/nanos_app_viacoin.gif
+1508508619|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1508508619|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1508508619|BTChip github|M|/blue-app-btc/src/btchip_helpers.c
+1508508619|BTChip github|M|/blue-app-btc/src/btchip_transaction.c
+1508508619|BTChip github|M|/blue-app-btc/src/main.c
+1508508619|BTChip github|A|/blue-app-btc/src/segwit_addr.c
+1508508619|BTChip github|A|/blue-app-btc/src/segwit_addr.h
+1508508619|BTChip github|M|/blue-app-btc/src/usbd_hid_impl.c
+1508508619|BTChip github|M|/blue-app-btc/src/usbd_hid_impl.h
+1511288537|BTChip github|M|/blue-app-btc/Makefile
+1511288537|BTChip github|A|/blue-app-btc/blue_app_stealthcoin.gif
+1511288537|BTChip github|A|/blue-app-btc/glyphs/blue_badge_stealthcoin.gif
+1511288537|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_stealthcoin.gif
+1511288537|BTChip github|A|/blue-app-btc/nanos_app_stealthcoin.gif
+1511288537|BTChip github|M|/blue-app-btc/src/btchip_bcd.c
+1511289017|BTChip github|M|/blue-app-btc/Makefile
+1511289017|BTChip github|A|/blue-app-btc/blue_app_bitcoin_gold.gif
+1511289017|BTChip github|A|/blue-app-btc/glyphs/blue_badge_bitcoin_gold.gif
+1511289017|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_bitcoin_gold.gif
+1511289017|BTChip github|M|/blue-app-btc/include/btchip_context.h
+1511289017|BTChip github|A|/blue-app-btc/nanos_app_bitcoin_gold.gif
+1511289017|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_sign.c
+1511289017|BTChip github|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1511289513|BTChip github|M|/blue-app-btc/Makefile
+1511289644|BTChip github|M|/blue-app-btc/Makefile
+1512058709|BTChip github|M|/blue-app-btc/Makefile
+1512058709|BTChip github|A|/blue-app-btc/blue_app_digibyte.gif
+1512058709|BTChip github|A|/blue-app-btc/blue_app_hcash.gif
+1512058709|BTChip github|A|/blue-app-btc/blue_app_qtum.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/blue_badge_digibyte.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/blue_badge_hcash.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/blue_badge_qtum.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_digibyte.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_hcash.gif
+1512058709|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_qtum.gif
+1512058709|BTChip github|M|/blue-app-btc/include/btchip_filesystem.h
+1512058709|BTChip github|M|/blue-app-btc/include/btchip_helpers.h
+1512058709|BTChip github|A|/blue-app-btc/nanos_app_digibyte.gif
+1512058709|BTChip github|A|/blue-app-btc/nanos_app_hcash.gif
+1512058709|BTChip github|A|/blue-app-btc/nanos_app_qtum.gif
+1512058709|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1512058709|BTChip github|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1512058709|BTChip github|M|/blue-app-btc/src/btchip_helpers.c
+1512058709|BTChip github|M|/blue-app-btc/src/main.c
+1515249230|BTChip github|M|/blue-app-btc/Makefile
+1515249230|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1520345022|BTChip github|M|/blue-app-btc/Makefile
+1520345022|BTChip github|M|/blue-app-btc/include/btchip.h
+1520345022|BTChip github|M|/blue-app-btc/include/btchip_context.h
+1520345022|BTChip github|M|/blue-app-btc/include/btchip_filesystem.h
+1520345022|BTChip github|M|/blue-app-btc/include/btchip_helpers.h
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_sign.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_setup.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_bcd.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_context.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_helpers.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_public_ram_variables.c
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_public_ram_variables.h
+1520345022|BTChip github|M|/blue-app-btc/src/btchip_transaction.c
+1520345022|BTChip github|M|/blue-app-btc/src/main.c
+1520345022|BTChip github|M|/blue-app-btc/src/segwit_addr.c
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_io.c
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_io.h
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_processing.c
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_processing.h
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_service.c
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_service.h
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_timer.h
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_transport.c
+1520345022|BTChip github|D|/blue-app-btc/src/u2f_transport.h
+1520345022|BTChip github|D|/blue-app-btc/src/usbd_hid_impl.c
+1520345022|BTChip github|D|/blue-app-btc/src/usbd_hid_impl.h
+1520428125|BTChip github|M|/blue-app-btc/Makefile
+1520428125|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1520428125|BTChip github|M|/blue-app-btc/src/main.c
+1520502613|Raulo|M|/blue-app-btc/src/main.c
+1521217282|BTChip github|M|/blue-app-btc/Makefile
+1521217282|BTChip github|M|/blue-app-btc/include/btchip_filesystem.h
+1521217282|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_trusted_input.c
+1521217282|BTChip github|M|/blue-app-btc/src/btchip_apdu_setup.c
+1521217282|BTChip github|M|/blue-app-btc/src/btchip_transaction.c
+1521592464|Gbillou|M|/blue-app-btc/Makefile
+1524030544|BTChip github|M|/blue-app-btc/Makefile
+1524030544|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_bitcoin_private.gif
+1524030544|BTChip github|A|/blue-app-btc/glyphs/nanos_badge_zencash.gif
+1524030544|BTChip github|M|/blue-app-btc/include/btchip_context.h
+1524030544|BTChip github|A|/blue-app-btc/nanos_app_bitcoin_private.gif
+1524030544|BTChip github|A|/blue-app-btc/nanos_app_zencash.gif
+1524030544|BTChip github|M|/blue-app-btc/src/btchip_apdu_get_wallet_public_key.c
+1524030544|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1524030544|BTChip github|M|/blue-app-btc/src/btchip_apdu_hash_input_start.c
+1524030544|BTChip github|M|/blue-app-btc/src/btchip_apdu_set_alternate_coin_version.c
+1524030544|BTChip github|M|/blue-app-btc/src/btchip_helpers.c
+1524030544|BTChip github|A|/blue-app-btc/src/cashaddr.c
+1524030544|BTChip github|A|/blue-app-btc/src/cashaddr.h
+1524030544|BTChip github|M|/blue-app-btc/src/main.c
+1524539216|josephnicholas|M|/blue-app-btc/src/btchip_helpers.c
+1524702238|Patrick Hennis|M|/blue-app-btc/src/btchip_helpers.c
+1527592268|BTChip github|M|/blue-app-btc/Makefile
+1528391469|tecnovert|M|/blue-app-btc/Makefile
+1528391469|tecnovert|A|/blue-app-btc/blue_app_particl.gif
+1528391469|tecnovert|A|/blue-app-btc/glyphs/nanos_badge_particl.gif
+1528391469|tecnovert|A|/blue-app-btc/glyphs/nanos_badge_particl_testnet.gif
+1528391469|tecnovert|M|/blue-app-btc/include/btchip_context.h
+1528391469|tecnovert|M|/blue-app-btc/include/btchip_filesystem.h
+1528391469|tecnovert|A|/blue-app-btc/nanos_app_particl.gif
+1528391469|tecnovert|A|/blue-app-btc/nanos_app_particl_testnet.gif
+1528391469|tecnovert|M|/blue-app-btc/src/btchip_apdu_hash_input_finalize_full.c
+1528391469|tecnovert|M|/blue-app-btc/src/btchip_apdu_hash_sign.c
+1528391469|tecnovert|M|/blue-app-btc/src/btchip_apdu_sign_message.c
+1528391469|tecnovert|M|/blue-app-btc/src/btchip_helpers.c
+1528391469|tecnovert|M|/blue-app-btc/src/btchip_transaction.c
+1528391469|tecnovert|M|/blue-app-btc/src/main.c
