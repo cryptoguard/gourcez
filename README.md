@@ -11,4 +11,4 @@ This repository contains scripts to execute the Gource Github activity vizualize
 
 * Navigate to this repository on your computer
 * Choose the cryptocurrency you want to vizualize by going in its folder
-* Execute the script by typing sh ./vizualize.sh
+* Execute the script by typing sh ./visualize.sh
